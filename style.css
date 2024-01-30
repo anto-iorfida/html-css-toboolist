@@ -35,7 +35,7 @@ header {
            main
     ---------------------- */
 main {
-     height: 580px;
+     height: 650px;
      max-width: 790px;
      background-color: white;
      margin: 40px auto;
@@ -66,10 +66,19 @@ main {
     border-bottom: 2px;
     
 }
-.new-task {
+.section-1 {
     
     height: 100px;
     padding: 35px 50px 15px ;
+}
+.section-2{
+    height: 250px;
+    padding: 35px 50px 15px ;
+} 
+.section-3 {
+    height: 250px;
+    padding: 10px 50px 15px ;
+
 }
 .triangle {
     display: inline-block;
@@ -138,4 +147,10 @@ main {
 }
 .color-orange {
      background-color: #ff9b00;
+}
+.color-rose {
+    background-color: #ec4a9d;
+}
+.color-brightgreen {
+    background-color: #a3d116;
 }
