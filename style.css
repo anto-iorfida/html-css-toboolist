@@ -65,7 +65,7 @@ main {
     border-color: #f6f8f9;
     height: 50px;
     padding: 10px 50px 15px;
-    border: 2px solid;
+    border-bottom: 2px solid;
     color: #f6f8f9;
     
 }
