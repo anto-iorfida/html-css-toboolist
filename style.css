@@ -16,6 +16,7 @@ header {
     height: 70px;
     padding: 10px 20px;
     background-color: white;
+    font-family: 'Roboto', sans-serif;
 }
 .logo-header {
     vertical-align: middle;
@@ -25,6 +26,7 @@ header {
 .text-header {
     vertical-align: middle;
     display: inline-block
+    
     
 }
 /*  ---------------------
@@ -87,6 +89,7 @@ main {
 .title-newtask {
     display: inline-block;
     vertical-align: middle;
+    font-family: 'Roboto', sans-serif;
 
 
 }
@@ -154,3 +157,7 @@ main {
 .color-brightgreen {
     background-color: #a3d116;
 }
+
+ /* ---------------------
+          / main
+    ---------------------- */
