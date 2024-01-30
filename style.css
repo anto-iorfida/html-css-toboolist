@@ -5,12 +5,17 @@
     
   }
 
+  body {
+    background-color: #f6f8f9;
+  }
+
   /* ---------------------
      header
     ---------------------- */
 header {
     height: 70px;
     padding: 10px 20px;
+    background-color: white;
 }
 .logo-header {
     vertical-align: middle;
@@ -22,6 +27,41 @@ header {
     display: inline-block
     
 }
-/* ---------------------
+/*  ---------------------
       / header
     ---------------------- */
+
+ /* ---------------------
+           main
+    ---------------------- */
+main {
+     height: 580px;
+     max-width: 790px;
+     background-color: white;
+     margin: 40px auto;
+}
+.button-task {
+    height: 25px;
+    width: 70px;
+    background-color: #14aaf5;
+    border-radius: 6px;
+    border-color: #14aaf5;
+    color: white;
+    border-width: 1px;
+}
+.button-section {
+    height: 25px;
+    width: 85px;
+    background-color: white;
+    border-radius: 6px;
+    border-color: #f6f8f9;
+    border-width: 1px;
+    color: #f6f8f9;
+
+}
+.section-comand {
+    border-color: #f6f8f9;
+    height: 50px;
+    padding: 10px 50px 15px;
+    border-bottom: 2px;
+}
