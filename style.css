@@ -64,4 +64,47 @@ main {
     height: 50px;
     padding: 10px 50px 15px;
     border-bottom: 2px;
+    
+}
+.new-task {
+    
+    height: 100px;
+    padding: 35px 50px 15px ;
+}
+.triangle {
+    display: inline-block;
+    vertical-align: middle;
+}
+.title-newtask {
+    display: inline-block;
+    vertical-align: middle;
+
+
+}
+.icon-true {
+    display: inline-block;
+    width: 18px;
+    height: 18px;
+    color: #42ccb4;
+    text-align: center;
+    line-height: 18px;
+    border-radius: 50%;
+    border: 1px solid;
+    margin-right: 8px;
+    
+
+}
+.text-subtitle {
+    display: inline-block;
+    font-size: 20px;
+
+}
+.button-blue {
+    display: inline-block;
+    background-color:#14aaf5 ;
+    padding: 6px 10px;
+    
+    color: white;
+    border-radius: 16px;
+
 }
